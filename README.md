@@ -51,15 +51,8 @@
 
 ## 🗂️ Project Structure
 
-Churn_Pred_ANN/
-│
-├── Models/
-│   ├── final_model.keras       # Trained ANN model
-│   └── final_scaler.pkl        # Fitted StandardScaler
-│
-├── app.py                      # Streamlit web application
-├── requirements.txt            # Python dependencies
-└── README.md
+<img width="1433" height="851" alt="image" src="https://github.com/user-attachments/assets/e0e3e48f-2218-4bdf-91d9-e3cc33a3e062" />
+
 
 ---
 
